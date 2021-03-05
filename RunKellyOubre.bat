@@ -1,1 +1,1 @@
-Scripts/python.exe KellyOubre/KellyOubre.py
+Scripts\python.exe KellyOubre\KellyOubre.py
